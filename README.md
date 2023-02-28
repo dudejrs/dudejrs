@@ -7,17 +7,23 @@
 		<tr>
 			<th style="text-align: center" width="20%"> Title </th>
 			<th style="text-align: center" width="40%"> Description</th>
-			<th style="text-align: center" width="20%"> Period</th>
-			<th style="text-align: center" width="20%"> State</th>
+			<th style="text-align: center" width="20%"> Term</th>
+			<th style="text-align: center" width="20%"> Stack</th>
 		</tr>
 		<tr>
-			<td></td>
+			<td> <a href="https://github.com/dudejrs">.</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
+			<td> <a href="https://github.com/dudejrs">.</a></td>
 			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td> <a href="https://github.com/dudejrs">.</a></td>
 			<td></td>
 			<td></td>
 			<td></td>
