@@ -35,19 +35,20 @@
 	</table>
 </div>
 
-<div style="width:100%;display:flex;justify-content:center;">
-	<a href="https://dudejrs.github.io/info" style="font-size:1.5rem;color:inherit;padding:0.5rem;" >
-		더보기
-	</a>
-</div>
-
-<div style="display:flex;flex-direction:row;">
-
-[![Dudejrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudejrs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudejrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+	
+<a href="https://dudejrs.github.io/info">
+	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudejrs%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+<!-- <div style="display:flex;flex-direction:row;">
+
+<img  src="https://github-readme-stats.vercel.app/api?username=dudejrs&show_icons=true&theme=gruvbox"/> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejrs&layout=compact&theme=gruvbox"/> 
+
+</div>
+ -->
 
